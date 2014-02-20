@@ -3,9 +3,9 @@
  * Dependencies
  */
 
-var trim = require('trim').left;
-var domify = require('domify');
-var query = require('query');
+var trim = require('component-trim').left;
+var domify = require('component-domify');
+var query = require('component-query');
 
 /**
  * Export `toElement`

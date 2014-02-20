@@ -1,0 +1,15 @@
+{
+  "name": "yields-to-element",
+  "description": "get a native element.",
+  "version": "0.1.0",
+  "keywords": [
+    "to-element"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-trim": "git://github.com/npmcomponent/component-trim.git"
+  },
+  "license": "MIT"
+}
